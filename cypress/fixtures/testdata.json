@@ -1,0 +1,15 @@
+{
+  "personalAccidentData":{
+    "product": "Personal Accident",
+    "PaPlan": "Medical expenses",
+    "typeOfPACoverage": "pahap",
+    "dateOfBirth": "12/12/95",
+    "nationality": "A80",
+    "phoneNumber": "090-402-1906",
+    "firstName": "Beatrice",
+    "lastName": "Gomez",
+    "email": "fastrabbit@gmail.com",
+    "gender": "Female"
+  }
+
+}
